@@ -1,5 +1,5 @@
 Package: libactivator
-Version: 1.9.13~beta2
+Version: 1.0
 Section: System
 Maintainer: Tempest Shadow <tempest.shadow.repo@gmail.com>
 Depends: mobilesubstrate
