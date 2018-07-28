@@ -2,7 +2,7 @@ Package: libactivator
 Version: 1.9.13~beta2
 Section: Utilities
 Maintainer: Tempest Shadow <tempest.shadow.repo@gmail.com>
-Depends: mobilesubstrate, preferenceloader, com.a3tweaks.flipswitch, com.rptrich.rocketbootstrap
+Depends: mobilesubstrate, preferenceloader, com.a3tweaks.flipswitch, com.rpetrich.rocketbootstrap
 Architecture: iphoneos-arm
 Filename: debs/libactivator_1.9.13~beta2_iphoneos-arm.deb
 Size: 767372
