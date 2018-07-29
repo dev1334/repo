@@ -3,6 +3,8 @@ Name: DisableClockIconAnimation
 Author: Tempest Shadow <tempest.shadow.repo@gmail.com>
 Description: Save (some) battery by preventing the clock icon on the springboard from moving!
 Depends: mobilesubstrate
+Size: 2772
+MD5sum: 7385e762a31b681268e56a47357d01fe
 Maintainer: Tempest Shadow <tempest.shadow.repo@gmail.com>
 Filename: debs/DisableClockIconAnimation.deb
 Architecture: iphoneos-arm
