@@ -1,0 +1,10 @@
+Package: com.tempestshadow.DisableClockAnimation
+Name: DisableClockIconAnimation
+Author: Tempest Shadow <tempest.shadow.repo@gmail.com>
+Description: Save (some) battery by preventing the clock icon on the springboard from moving!
+Depends: mobilesubstrate
+Maintainer: Tempest Shadow <tempest.shadow.repo@gmail.com>
+Filename: debs/DisableClockIconAnimation.deb
+Architecture: iphoneos-arm
+Section: Tweaks
+Version: 1.0
